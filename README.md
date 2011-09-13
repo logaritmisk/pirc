@@ -2,11 +2,11 @@ pIRC
 ====
 An event dispatcher and a IRC client
 
-# IRC Client
+## IRC Client
 Event driven IRC client
 
-## Example
+### Example
 See eample.py
 
-# EventDispatcher
+## EventDispatcher
 Inspired by Pyglet's EventDispatcher.
